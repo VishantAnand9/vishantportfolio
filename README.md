@@ -1,2 +1,1 @@
-# vishantprofile
-my portfolio website using hugo 
+# Keerthi-Sreenivas.github.io
